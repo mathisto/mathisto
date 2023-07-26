@@ -1,11 +1,6 @@
-
-<!---
-mathisto/mathisto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # Welcome to the Enchanted Realm of Code! ✨🔮
 
-Greetings, fellow wanderer of the digital realms! I am Matt Kelly, a sorcerer of code, [conjuring magic through the ethereal art of programming](http://sarabander.github.io/sicp/html/Chapter-1.xhtml#Chapter-1). Step into my enchanted GitHub sanctuary, where the lines of code intertwine like spells, and the languages I wield are the ancient incantations of our digital universe.
+Greetings, fellow wanderer of the digital realms! I am Matt Kelly, a sorcerer of code, [conjuring magic through the ethereal art of programming](http://sarabander.github.io/sicp/html/Chapter-1.xhtml#Chapter-1). Step into my enchanted GitHub sanctuary, where the lines of code intertwine like spells, and the languages I wield are the ancient incantations of our digital universe. Ahead of you awaits a manifold array of chatGPT generated copy to delight the senses!
 
 I keep an updated copy of [my Resume/CV published here](resume.pdf) if you are interested in that sort of thing.
 
