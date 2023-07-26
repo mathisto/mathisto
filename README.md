@@ -19,11 +19,9 @@ Prepare to be mesmerized by the enchantments I've crafted with the following mys
 
 🔮 **FORTH**: FORTH, the ancient language of stack manipulation, allows me to delve into the depths of low-level magic, invoking the power of simplicity and control to create efficient and spellbinding software!
 
-Now, behold the artifacts of my magical endeavors:
-
-📦 [Repo 1](https://github.com/mathisto/repo1): [Short description of Repo 1]
-🧪 [Repo 2](https://github.com/mathisto/repo2): [Short description of Repo 2]
-✨ [Repo 3](https://github.com/mathisto/repo3): [Short description of Repo 3]
+Prior incantations:
+- 📦 [Faker]([https://github.com/mathisto/repo1](https://github.com/faker-ruby/faker)): [Check out my contrib to the Tolkien Legendarium. LOL.]
+- 🧪 [VA.gov APIs](https://github.com/department-of-veterans-affairs/vets-api): [Modernizing tha VA.gov API affordances]
 
 ⚡ Fun fact: Did you know that I once crafted a spell in FORTH that could transform source code into poetry? It was a magical fusion of art and programming!
 
