@@ -7,6 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 Greetings, fellow wanderer of the digital realms! I am Matt Kelly, a sorcerer of code, [conjuring magic through the ethereal art of programming](http://sarabander.github.io/sicp/html/Chapter-1.xhtml#Chapter-1). Step into my enchanted GitHub sanctuary, where the lines of code intertwine like spells, and the languages I wield are the ancient incantations of our digital universe.
 
+I keep an updated copy of [my Resume/CV published here](resume.pdf) if you are interested in that sort of thing.
+
 Prepare to be mesmerized by the enchantments I've crafted with the following mystical languages:
 
 🔥 **Ruby**: Ruby, the fiery gem of the programming world, allows me to cast spells with elegance and grace, invoking the power of its enchanting syntax to create mesmerizing applications!
