@@ -20,6 +20,4 @@ Prior incantations:
 - 📦 [Faker](https://github.com/faker-ruby/faker): [Check out my contrib to the Tolkien Legendarium. LOL.]
 - 🧪 [VA.gov APIs](https://github.com/department-of-veterans-affairs/vets-api): [Modernizing tha VA.gov API affordances]
 
-⚡ Fun fact: Did you know that I once crafted a spell in FORTH that could transform source code into poetry? It was a magical fusion of art and programming!
-
 Embrace the mystic arts of code, dear traveler, and let us embark on a wondrous journey together. Through the incantations of programming, we shall unlock the secrets of the digital realm and shape a world where magic and technology intertwine in harmony! ✨🌍✨
