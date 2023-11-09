@@ -5,5 +5,5 @@ I didn't think anyone looked at these things, but here you are! I'm a bit of an 
 ### Projects I have contributed to:
 - 📦 [Faker](https://github.com/faker-ruby/faker): [Check out my massive overhaul of Tolkien Legendarium!]
 - 🎥 [ytfzf](https://github.com/pystardust/ytfzf): [A pure POSIX shell script that lets you watch youtube videos at the CLI.]
-- 🍊 [Tangering](https://github.com/udayvir-singh/tangerine.nvim): [Sweet Fennel integration for Neovim]
+- 🍊 [Tangerine](https://github.com/udayvir-singh/tangerine.nvim): [Sweet Fennel integration for Neovim]
 - 🧪 [VA.gov APIs](https://github.com/department-of-veterans-affairs/vets-api): [The API backend for the VA.gov website]
